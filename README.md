@@ -62,7 +62,7 @@ Sampling some of the Medley-solos-DB data, where notes do not change at a consta
 
 
 
-On the full Medley-solos-DB dataset, we observe a slightly left-skewed distribution and are analyzing the activity within the neuron's local scope in the frames on the tails of the distribution. This will provide insight on the meaning of the magnitude of the neuron.
+On the full Medley-solos-DB dataset, we observe a slightly left-skewed histogram and are analyzing the activity within the neuron's local scope in the frames on the tails of the distribution. This will provide insight on the meaning of the magnitude of the neuron. The x-axis represents a single neuron's magnitude, and the y-axis represents frequency.
 
 <p align="center">
   <img src="/img/plots/MDB/MDB_hist_sequences_neuron:_100_20.png" width=45%>
