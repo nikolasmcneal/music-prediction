@@ -50,14 +50,14 @@ In addition, in alignment with the findings from Randall and Greenberg, we only 
 We are currently performing a quantitative analysis on the neurons in the LSTM layers to derive insight into what information is being learned and stored. On the Randall and Greenberg dataset, indexing a neuron in the bottom-most representation layer directly in the scope of where predictions are generated shows its oscillatory behavior, where each spike corresponds to a note change, and each line corresponds to a sequence (the x-axis represents the timestep of prediction, and y-axis represents the magnitude of the neuron).  
 
 <p align="center">
-  <img src="/img/plots/RG/RG_20_sequences_neuron:_100_20.jpg" width=30%>
+  <img src="/img/plots/RG/RG_20_sequences_neuron:_100_20.jpg" width=45%>
 </p>
 
 
 Sampling some of the Medley-solos-DB data, where notes do not change at a constant rate (and audio consists of real instruments instead of sine wave pure-tone frequencies), the neuron behavior is more erratic.
 
 <p align="center">
-  <img src="/img/plots/MDB/MDB_50_sequences_neuron:_100_20.png" width=30%>
+  <img src="/img/plots/MDB/MDB_50_sequences_neuron:_100_20.png" width=45%>
 </p>
 
 
@@ -65,7 +65,7 @@ Sampling some of the Medley-solos-DB data, where notes do not change at a consta
 On the full Medley-solos-DB dataset, we observe a slightly left-skewed distribution are analyzing the activity within the neuron's local scope in the frames on the tails of the distribution. This will provide insight on the meaning of the magnitude of the neuron.
 
 <p align="center">
-  <img src="/img/plots/MDB/MDB_hist_sequences_neuron:_100_20.png" width=30%>
+  <img src="/img/plots/MDB/MDB_hist_sequences_neuron:_100_20.png" width=45%>
 </p>
 
 
