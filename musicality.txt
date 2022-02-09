@@ -1,0 +1,23 @@
+Musical Sequences:
+D88 
+D100 
+D51
+D91
+D29
+D6
+D26
+D82
+D61
+D45
+
+Nonmusical  Sequences:
+D15
+D84
+D93
+D14
+D59
+D19
+D17
+D99
+D33
+D7
