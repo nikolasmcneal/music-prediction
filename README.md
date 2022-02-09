@@ -30,7 +30,7 @@ When comparing different musicality categories' MSE's, we first divide each sequ
 
 
 ## Results
-We observe better performance on musical sequences than non-musical sequences from the Randall and Greenberg dataset, suggesting that predictability is a correlate of musicality. In addition, we notice a "context effect," where the prediction error decreases throughout the duration of musical sequences but not non-musical sequences. In fact, throughout the duration of certain non-musical clips, the prediction error raises with significance. We therefore notice an increase in the difference between non-musical and musical error. In the following diagram, the blue line represents the average MSE of musical sequences, the orange line represents the average MSE of non-musical sequences, and the green line represents the difference between non-musical and musical MSE's. 
+We observe better performance on musical sequences than non-musical sequences from the Randall and Greenberg dataset, suggesting that predictability is a correlate of musicality. In addition, we notice a "context effect," where the prediction error decreases throughout the duration of musical sequences but not non-musical sequences. In fact, throughout the duration of certain non-musical clips, we observe a significant increase in prediction error. We therefore notice an increase in the difference between non-musical and musical error. In the following diagram, the blue line represents the average MSE of musical sequences, the orange line represents the average MSE of non-musical sequences, and the green line represents the difference between non-musical and musical MSE's. 
 
 <p align="center">
   <img src="/img/mse-difference-detailed.jpg" width=80%>
