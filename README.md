@@ -76,7 +76,7 @@ In addition, future work could test if neural networks perform musicality predic
 
 ## References
 
-[1] Lotter, William, Gabriel Kreiman, and David Cox (Mar. 2017). “Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning”. In: URL: https://arxiv. org/pdf/1605.08104.pdf.
+[1] Lotter, William, Gabriel Kreiman, and David Cox (Mar. 2017). “Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning”. In: URL: https://arxiv.org/pdf/1605.08104.pdf.
 
 [2] Costa, Yandre M.G., Luiz S. Oliveira, and Carlos N. Silla Jr. (Mar. 2017). “An evaluation of Convolutional Neural Net- works for music classification using spectrograms”. In: URL: https://dl.acm.org/doi/10.1016/j.asoc.2016.12.024.
 
